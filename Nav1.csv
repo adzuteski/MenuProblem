@@ -1,0 +1,16 @@
+ID;MenuName;ParentID;isHidden;LinkURL
+1;Company;NULL;False;/company
+2;About Us;1;False;/company/aboutus
+3;Mission;1;False;/company/mission
+4;Team;2;False;/company/aboutus/team
+5;Client 2;10;False;/references/client2
+6;Client 1;10;False;/references/client1
+7;Client 4;10;True;/references/client4
+8;Client 5;10;True;/references/client5
+10;References;NULL;False;/references
+10;Employees;NULL;False;/employees
+10;Employee 1;NULL;False;/employees/employee1
+10;Employee 2;NULL;False;/employees/employee2
+10;Projects;NULL;False;/employees/employee2/projects
+5;Complete;1;False;/company/mission/complete
+6;Join Us;2;False;/company/aboutus/team/joinus
